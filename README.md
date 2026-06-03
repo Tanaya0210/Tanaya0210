@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Tanaya Jadhav
 
-<!--
-**Tanaya0210/Tanaya0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Data Science student at the University of Nottingham with interests in:
 
-Here are some ideas to get you started:
+- Data Analytics
+- Business Analytics
+- Research Analytics
+- Data Visualisation
+- Statistical Modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Dissertation Project
+- SQL Analytics Project
+- Power BI Dashboards
+- Graduate Analyst Opportunities
+
+## Technical Skills
+
+Python • R • SQL • Excel • Power BI
+
+## Featured Projects
+
+### Heart Disease Prediction Using Machine Learning
+
+Explored clinical health data, performed statistical analysis, and compared machine learning models for disease prediction.
+
+### Colorado Vehicle Sales Analytics
+
+Analysed vehicle sales trends across Colorado and transformed data into business insights through dashboarding and reporting.
+
+## Connect
+
+LinkedIn:
+https://linkedin.com/in/tanayajadhav0210
+
+Portfolio:
+https://tanaya0210.github.io
