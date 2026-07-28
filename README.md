@@ -92,5 +92,5 @@ Relevant study includes Statistics, Statistical Modelling, Statistical Machine L
 
 ## Connect With Me
 
-- **LinkedIn:** [TanayaJ.](linkedin.com/in/tanayajadhav0210)
+- **LinkedIn:** [Tanaya J.](https://www.linkedin.com/in/tanayajadhav0210/)
 - **GitHub:** [Tanaya0210](https://github.com/Tanaya0210)
