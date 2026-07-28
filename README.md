@@ -1,4 +1,4 @@
-# Hi, I'm Tanaya Jadhav
+# Hi, I'm Tanaya Jadhav!
 
 ### Data Analyst | MSc Data Science @ University of Nottingham
 
