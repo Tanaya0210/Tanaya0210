@@ -63,7 +63,7 @@ I particularly enjoy projects where the analysis starts with a genuine question 
 
 ### Data
 
-<img src="https://img.shields.io/badge/EDA-2E9EF7?style=flat">
+<img src="https://img.shields.io/badge/Exploratory Data Analysis-2E9EF7?style=flat">
 <img src="https://img.shields.io/badge/Data%20Cleaning-4ECDC4?style=flat">
 <img src="https://img.shields.io/badge/Data%20Visualisation-FF6B6B?style=flat">
 <img src="https://img.shields.io/badge/Feature%20Engineering-45B7D1?style=flat">
