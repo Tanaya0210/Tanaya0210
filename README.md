@@ -2,7 +2,7 @@
 
 # Hi, I'm Tanaya Jadhav
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+R;Turning+Data+into+Actionable+Insights&repeat=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+R;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 
 </div>
 
