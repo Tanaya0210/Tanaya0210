@@ -89,7 +89,6 @@ Data analysis, visualisation, and predictive modelling.
 
 <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-1976D2?style=flat">
 <img src="https://img.shields.io/badge/Data%20Cleaning-2589D9?style=flat">
-<br>
 <img src="https://img.shields.io/badge/Data%20Visualisation-3A9DE0?style=flat">
 <img src="https://img.shields.io/badge/Feature%20Engineering-55B0E7?style=flat">
 
@@ -101,7 +100,6 @@ Data analysis, visualisation, and predictive modelling.
 
 <img src="https://img.shields.io/badge/KPI%20Analysis-6F2DBD?style=flat">
 <img src="https://img.shields.io/badge/Dashboards-7B3FC6?style=flat">
-<br>
 <img src="https://img.shields.io/badge/Business%20Intelligence-8952CF?style=flat">
 <img src="https://img.shields.io/badge/Data%20Storytelling-9967D8?style=flat">
 
@@ -113,7 +111,6 @@ Data analysis, visualisation, and predictive modelling.
 
 <img src="https://img.shields.io/badge/Statistical%20Modelling-B71C1C?style=flat">
 <img src="https://img.shields.io/badge/Regression%20Analysis-C62828?style=flat">
-<br>
 <img src="https://img.shields.io/badge/Hypothesis%20Testing-D63A3A?style=flat">
 <img src="https://img.shields.io/badge/Multivariate%20Analysis-E05252?style=flat">
 
