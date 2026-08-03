@@ -13,7 +13,7 @@
   <a href="https://tanaya0210.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:tanayajadhav2026@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -62,11 +62,4 @@ I particularly enjoy projects where the analysis starts with a genuine question 
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Statistics-8A2BE2?style=flat">
   <img src="https://img.shields.io/badge/Predictive%20Modelling-ML-45B7D1?style=flat">
   <img src="https://img.shields.io/badge/Data%20Visualisation-Insights-FF6B6B?style=flat">
-</p>
-
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
