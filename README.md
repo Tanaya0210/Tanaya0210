@@ -28,18 +28,6 @@ I particularly enjoy projects where the analysis starts with a genuine question 
   <a href="./favourites/README.md"><b>personal favourites →</b></a>
 </p>
 
----
-
-## About Me
-
-I'm a Data Science postgraduate at the **University of Nottingham**, interested in using data to understand patterns, answer useful questions, and support better decisions.
-
-My work spans **data analysis, statistical modelling, machine learning, business intelligence, and data visualisation**, with projects across EdTech, sports analytics, healthcare, cybersecurity, marketing, and app-market data.
-
-I particularly enjoy projects where the analysis starts with a genuine question rather than a predetermined model or technique.
-
----
-
 ## Technical Skillset
 
 ### Data Analysis & Business Intelligence
