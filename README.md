@@ -38,21 +38,47 @@ I particularly enjoy projects where the analysis starts with a genuine question 
 
 ## Technical Skillset
 
-### Tools & Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
-</p>
-
 <div align="center">
+
+## Languages
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### R
+
+Statistical analysis, modelling, and data exploration.
+
+<a href="YOUR-R-PROJECTS-LINK"><b>view projects →</b></a>
+
+</td>
+
+<td align="center" width="33%">
+
+### SQL
+
+Querying, transforming, and analysing relational data.
+
+<a href="YOUR-SQL-PROJECTS-LINK"><b>view projects →</b></a>
+
+</td>
+
+<td align="center" width="33%">
+
+### Python
+
+Data analysis, visualisation, and predictive modelling.
+
+<a href="YOUR-PYTHON-PROJECTS-LINK"><b>view projects →</b></a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ## Analytics
 
