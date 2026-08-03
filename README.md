@@ -10,12 +10,12 @@ My work focuses on turning raw data into structured analysis, identifying meanin
 
 ## Technical Skills
 
-**Languages & Analysis:** Python • SQL • R  
-**Data Analysis:** Pandas • NumPy • Exploratory Data Analysis • Data Cleaning • Feature Engineering  
-**Machine Learning:** Scikit-learn • Regression • Classification • Random Forest • Model Evaluation  
-**Statistics:** Statistical Modelling • Hypothesis Testing • Regression Analysis • Multivariate Analysis  
-**Visualisation & BI:** Power BI • Matplotlib • Seaborn • ggplot2  
-**Tools:** Jupyter Notebook • PostgreSQL • pgAdmin • Git • GitHub
+**Languages & Analysis:** Python, SQL, R  
+**Data Analysis:** Pandas, NumPy, Exploratory Data Analysis, Data Cleaning, Feature Engineering  
+**Machine Learning:** Scikit-learn, Regression, Classification, Random Forest, Model Evaluation  
+**Statistics:** Statistical Modelling, Hypothesis Testing, Regression Analysis, Multivariate Analysis  
+**Visualisation & BI:** Power BI, Matplotlib, Seaborn, ggplot2  
+**Tools:** Jupyter Notebook, PostgreSQL, pgAdmin, Git, GitHub
 
 ---
 
