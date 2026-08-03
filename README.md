@@ -4,7 +4,7 @@ Data Analyst and MSc Data Science graduate from the University of Nottingham, wo
 
 I enjoy taking messy or complex datasets and turning them into clear analysis — from exploring patterns and building predictive models to communicating findings through visualisations and dashboards.
 
-## What you'll find here
+## What you'll find here?
 
 My projects span **business analytics, statistical analysis, predictive modelling, and data visualisation**, including work with marketing, cybersecurity, healthcare, app-market, and sports data.
 
