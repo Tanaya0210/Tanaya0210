@@ -1,37 +1,82 @@
-# Hi, I'm Tanaya Jadhav!
+<p align="center">
+  <img src="assets/github-banner.svg" width="100%" />
+</p>
 
-Data Analyst and MSc Data Science graduate from the University of Nottingham, working across **Python, SQL, R, Power BI, statistics, and machine learning**.
+## ☆ Personal Favourites
 
-I enjoy taking messy or complex datasets and turning them into clear analysis — from exploring patterns and building predictive models to communicating findings through visualisations and dashboards.
+Projects that have a story behind them.
 
-## What you'll find here?
+<table>
+<tr>
+<td width="33%">
 
-My projects span **business analytics, statistical analysis, predictive modelling, and data visualisation**, including work with marketing, cybersecurity, healthcare, app-market, and sports data.
+### 🎾 ATP Tennis Match Prediction
+**Wimbledon made me curious.**
 
-### Selected Work
+Wimbledon took over my Instagram feed and left me wondering:
 
-**ATP Tennis Match Prediction**  
-Built and evaluated predictive models on 20+ years of professional tennis data, incorporating Elo ratings, surface performance, rankings, and head-to-head history.
+*How much of a tennis match can we actually predict before it begins?*
 
-**Cybersecurity Threat Analysis**  
-Explored suspicious web interactions to identify behavioural patterns and potential security threats using Python.
+That question eventually became my MSc dissertation.
 
-[View repository](https://github.com/Tanaya0210/Cybersecurity-Suspicious-Web-Threat-Interactions)
+`Python` `Statistics` `ML` `Sports Analytics`
 
-**Google Play Store Analysis**  
-Analysed app-market data to uncover patterns in ratings and app characteristics, combining EDA, visualisation, and predictive modelling.
+[Explore →](ATP-LINK)
 
-[View repository](https://github.com/Tanaya0210/Google-Playstore-Apps-Rating-Prediction)
+</td>
 
-**Heart Disease Prediction**  
-Developed and evaluated classification models for cardiovascular risk prediction, achieving 86.9% accuracy.
+<td width="33%">
 
-[View repository](https://github.com/Tanaya0210/heart-disease-prediction)
+### ▶ Google Play Store Analysis
+**The project I came back to.**
 
-## Tech I Work With
+I first built this with a model-first mindset.
 
-`Python` `SQL` `R` `Power BI` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `PostgreSQL`
+Coming back later, I realised the more interesting part was finding the patterns, quantifying the insights and asking what someone could actually do with them.
 
-## Check me out!
+Same dataset. Very different analyst.
 
-[LinkedIn](https://www.linkedin.com/in/tanaya-jadhav/) | [Portfolio](https://tanaya0210.github.io/)
+`Python` `EDA` `ML` `Visualisation`
+
+[Explore →](https://github.com/Tanaya0210/Google-Playstore-Apps-Rating-Prediction)
+
+</td>
+
+<td width="33%">
+
+### 🎓 EdTech Analytics
+**The Uno reverse project.**
+
+I kept getting approached about training programmes.
+
+Instead of enrolling in another one, I decided to build an EdTech analytics project showing what I could actually contribute to an EdTech company.
+
+`SQL` `Power BI` `Data Modelling` `Analytics`
+
+[Explore →](EDTECH-LINK)
+
+</td>
+</tr>
+</table>
+
+---
+
+## More Projects
+
+| Project | What I explored |
+| --- | --- |
+| [Cybersecurity Threat Analysis](https://github.com/Tanaya0210/Cybersecurity-Suspicious-Web-Threat-Interactions) | Suspicious web interactions and behavioural patterns |
+| [Heart Disease Prediction](https://github.com/Tanaya0210/heart-disease-prediction) | Classification of cardiovascular risk |
+| [Advertising Data Analysis](https://github.com/Tanaya0210/Advertising-Data-Analysis) | Advertising spend and sales performance using R |
+
+---
+
+## Tech Stack
+
+`Python` `SQL` `R` `Power BI` `PostgreSQL` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+
+---
+
+## Find Me
+
+[LinkedIn](https://www.linkedin.com/in/tanaya-jadhav/) · [Portfolio](https://tanaya0210.github.io/)
