@@ -36,8 +36,6 @@ I particularly enjoy projects where the analysis starts with a genuine question 
 
 <div align="center">
 
-## Technical Skillset
-
 <div align="center">
 
 ## Languages
@@ -80,7 +78,7 @@ Data analysis, visualisation, and predictive modelling.
 
 </div>
 
-## Analytics
+## Analytical Skillset
 
 <table>
 <tr>
