@@ -32,6 +32,6 @@ Developed and evaluated classification models for cardiovascular risk prediction
 
 `Python` `SQL` `R` `Power BI` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `PostgreSQL`
 
-## Find Me
+## Check me out!
 
 [LinkedIn](https://www.linkedin.com/in/tanaya-jadhav/) | [Portfolio](https://tanaya0210.github.io/)
