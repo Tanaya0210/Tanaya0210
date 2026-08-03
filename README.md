@@ -1,51 +1,44 @@
-# Hi, I'm Tanaya Jadhav
+# Hi, I'm Tanaya Jadhav!
 
-### Data Analyst | MSc Data Science @ University of Nottingham
+Data Analyst and MSc Data Science graduate from the University of Nottingham, working across **Python, SQL, R, Power BI, statistics, and machine learning**.
 
-I’m a Data Science postgraduate with hands-on experience in **data analysis, statistical modelling, machine learning, and data visualisation** using Python, SQL, R, and Power BI.
+I enjoy taking messy or complex datasets and turning them into clear analysis — from exploring patterns and building predictive models to communicating findings through visualisations and dashboards.
 
-My work focuses on turning raw data into structured analysis, identifying meaningful patterns, and communicating findings clearly for data-driven decision-making.
+## What you'll find here
 
----
+My projects span **business analytics, statistical analysis, predictive modelling, and data visualisation**, including work with marketing, cybersecurity, healthcare, app-market, and sports data.
 
-## Technical Skills
+### Selected Work
 
-**Languages & Analysis:** Python, SQL, R  
-**Data Analysis:** Pandas, NumPy, Exploratory Data Analysis, Data Cleaning, Feature Engineering  
-**Machine Learning:** Scikit-learn, Regression, Classification, Random Forest, Model Evaluation  
-**Statistics:** Statistical Modelling, Hypothesis Testing, Regression Analysis, Multivariate Analysis  
-**Visualisation & BI:** Power BI, Matplotlib, Seaborn, ggplot2  
-**Tools:** Jupyter Notebook, PostgreSQL, pgAdmin, Git, GitHub
+**ATP Tennis Match Prediction**  
+Built and evaluated predictive models on 20+ years of professional tennis data, incorporating Elo ratings, surface performance, rankings, and head-to-head history.
 
----
+**Cybersecurity Threat Analysis**  
+Explored suspicious web interactions to identify behavioural patterns and potential security threats using Python.
 
-## Featured Projects
+[View repository](https://github.com/Tanaya0210/Cybersecurity-Suspicious-Web-Threat-Interactions)
 
-### Cybersecurity — Suspicious Web Threat Analysis
-**Python | EDA | Data Visualisation**
+**Google Play Store Analysis**  
+Analysed app-market data to uncover patterns in ratings and app characteristics, combining EDA, visualisation, and predictive modelling.
 
-Analysed web traffic and cybersecurity interaction data to identify suspicious behavioural patterns and potential threats through data cleaning, exploratory analysis, and visualisation.
+[View repository](https://github.com/Tanaya0210/Google-Playstore-Apps-Rating-Prediction)
 
-[View Project](https://github.com/Tanaya0210/Cybersecurity-Suspicious-Web-Threat-Interactions)
+**Heart Disease Prediction**  
+Developed and evaluated classification models for cardiovascular risk prediction, achieving 86.9% accuracy.
 
----
+[View repository](https://github.com/Tanaya0210/heart-disease-prediction)
 
-### Heart Disease Prediction
-**Python | Machine Learning | Classification**
+## Tech I Work With
 
-Built and evaluated machine-learning models for heart disease prediction, achieving **86.9% accuracy** while analysing clinical variables associated with cardiovascular risk.
+`Python` `SQL` `R` `Power BI` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `PostgreSQL`
 
-[View Project](https://github.com/Tanaya0210/heart-disease-prediction)
+## Currently
 
----
+Building out my analytics portfolio with a focus on **business-focused analysis, interactive dashboards, and stronger data storytelling**.
 
-### Advertising Data & Sales Performance
-**R | Statistical Analysis | Regression**
+## Find Me
 
-Analysed advertising and sales data using statistical techniques in R to investigate relationships between marketing expenditure and sales performance.
-
-[View Project](https://github.com/Tanaya0210/Advertising-Data-Analysis)
-
+[LinkedIn](https://www.linkedin.com/in/tanaya-jadhav/) | [Portfolio](https://tanaya0210.github.io/)
 ---
 
 ### Google Play Store Analysis
