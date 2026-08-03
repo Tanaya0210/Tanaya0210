@@ -1,39 +1,21 @@
 <p align="center">
-  <img src="assets/github-banner.svg" width="100%" />
+  <img src="assets/github-banner.svg" width="100%">
 </p>
 
-## ☆ Personal Favourites
+<p align="center">
+  <a href="#personal-favourites">personal favourites</a>
+</p>
 
-Projects that have a story behind them.
+## Personal Favourites
 
-<table>
-<tr>
-<td width="33%">
+### 01 — EdTech Analytics
+The Uno reverse project.
 
-### 🎾 ATP Tennis Match Prediction
-**Wimbledon made me curious.**
+### 02 — ATP Tennis Match Prediction
+Wimbledon made me curious.
 
-Wimbledon took over my Instagram feed and left me wondering:
-
-*How much of a tennis match can we actually predict before it begins?*
-
-That question eventually became my MSc dissertation.
-
-`Python` `Statistics` `ML` `Sports Analytics`
-
-[Explore →](ATP-LINK)
-
-</td>
-
-<td width="33%">
-
-### ▶ Google Play Store Analysis
-**The project I came back to.**
-
-I first built this with a model-first mindset.
-
-Coming back later, I realised the more interesting part was finding the patterns, quantifying the insights and asking what someone could actually do with them.
-
+### 03 — Google Play Store Analysis
+The project I came back to.
 Same dataset. Very different analyst.
 
 `Python` `EDA` `ML` `Visualisation`
