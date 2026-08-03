@@ -1,57 +1,70 @@
-# Hi, I'm Tanaya Jadhav!
+# Hi, I'm Tanaya Jadhav
 
 ### Data Analyst | MSc Data Science @ University of Nottingham
 
-I'm an MSc Data Science student with experience across data analysis and data science internships, using **Python, SQL, R, Excel, and statistical methods** to explore data, identify patterns, and communicate meaningful insights.
+I’m a Data Science postgraduate with hands-on experience in **data analysis, statistical modelling, machine learning, and data visualisation** using Python, SQL, R, and Power BI.
 
-My interests lie in **data analysis, statistical modelling, data visualisation, and predictive analytics**, with a focus on turning complex datasets into clear, evidence-based conclusions.
+My work focuses on turning raw data into structured analysis, identifying meaningful patterns, and communicating findings clearly for data-driven decision-making.
 
 ---
 
 ## Technical Skills
 
-- **Data Analysis:** Python, SQL, R, Excel
-- **Python:** Pandas, NumPy, Matplotlib, Scikit-learn
-- **Statistics:** Statistical Analysis, Regression, Hypothesis Testing, Model Evaluation
-- **Machine Learning:** Classification, Predictive Modelling, Feature Engineering
-- **Data Visualisation:** Matplotlib
-- **Databases:** SQL, Relational Databases, Data Validation
+**Languages & Analysis:** Python • SQL • R  
+**Data Analysis:** Pandas • NumPy • Exploratory Data Analysis • Data Cleaning • Feature Engineering  
+**Machine Learning:** Scikit-learn • Regression • Classification • Random Forest • Model Evaluation  
+**Statistics:** Statistical Modelling • Hypothesis Testing • Regression Analysis • Multivariate Analysis  
+**Visualisation & BI:** Power BI • Matplotlib • Seaborn • ggplot2  
+**Tools:** Jupyter Notebook • PostgreSQL • pgAdmin • Git • GitHub
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### Cybersecurity — Suspicious Web Threat Analysis
+**Python | EDA | Data Visualisation**
+
+Analysed web traffic and cybersecurity interaction data to identify suspicious behavioural patterns and potential threats through data cleaning, exploratory analysis, and visualisation.
+
+[View Project](https://github.com/Tanaya0210/Cybersecurity-Suspicious-Web-Threat-Interactions)
+
+---
 
 ### Heart Disease Prediction
+**Python | Machine Learning | Classification**
 
-A data analysis and machine learning project investigating clinical factors associated with heart disease and developing models to predict patient outcomes.
+Built and evaluated machine-learning models for heart disease prediction, achieving **86.9% accuracy** while analysing clinical variables associated with cardiovascular risk.
 
-- Performed data cleaning, preprocessing, and exploratory data analysis
-- Investigated relationships between clinical variables and heart disease outcomes
-- Applied classification techniques to build predictive models
-- Evaluated model performance using appropriate classification metrics
-- Achieved **86.9% prediction accuracy**
-
-**Tools:** Python • Pandas • NumPy • Matplotlib • Scikit-learn
+[View Project](https://github.com/Tanaya0210/heart-disease-prediction)
 
 ---
 
-## Current Research
+### Advertising Data & Sales Performance
+**R | Statistical Analysis | Regression**
 
-### MSc Dissertation — ATP Tennis Match Prediction
+Analysed advertising and sales data using statistical techniques in R to investigate relationships between marketing expenditure and sales performance.
 
-Currently investigating predictive modelling approaches for professional men's tennis using historical ATP match data from **2005–2025**.
+[View Project](https://github.com/Tanaya0210/Advertising-Data-Analysis)
 
-The research explores how player rankings, Elo ratings, surface performance, head-to-head history, and recent form can contribute to match-outcome prediction.
+---
 
-Current work includes:
+### Google Play Store Analysis
+**Python | EDA | Machine Learning**
 
-- Data preprocessing and feature engineering
-- Elo-based player performance modelling
-- Statistical and machine learning approaches
-- Chronological and random validation strategies
-- Model evaluation and comparison
+Analysed Google Play Store application data to investigate factors associated with app ratings, combining exploratory analysis, visualisation, and predictive modelling.
 
-**Tools:** Python • Pandas • Scikit-learn • Statistical Modelling
+[View Project](https://github.com/Tanaya0210/Google-Playstore-Apps-Rating-Prediction)
+
+---
+
+## MSc Dissertation — In Progress
+
+### ATP Tennis Match Prediction
+**Python | Statistical Modelling | Machine Learning**
+
+Developing a predictive framework using ATP men's singles matches from **2005–2025**, investigating player rankings, Elo ratings, surface performance, head-to-head history, and recent form.
+
+Comparing chronological and random validation strategies to examine model performance and the impact of temporal data splitting.
 
 ---
 
@@ -60,37 +73,25 @@ Current work includes:
 ### Data Science Intern — Labmentix
 **Apr 2025 – Oct 2025**
 
-Worked on data science projects involving data preprocessing, exploratory analysis, machine learning, and model evaluation using Python.
+Worked on data science projects involving data preprocessing, exploratory analysis, feature engineering, machine-learning modelling, model evaluation, and visualisation using Python.
 
 ### Data Analyst Intern — Unified Mentor
 **Dec 2024 – Mar 2025**
 
-Worked with datasets to perform data cleaning, exploratory analysis, and analytical problem-solving, using data to identify patterns and generate insights.
+Analysed structured datasets using Python, applying data cleaning, exploratory analysis, predictive modelling, and visualisation to identify patterns and communicate analytical findings.
 
 ---
 
 ## Education
 
-### MSc Data Science
-**University of Nottingham | 2025–2026**
+**MSc Data Science**  
+University of Nottingham | 2025 – 2026
 
-Relevant study includes Statistics, Statistical Modelling, Statistical Machine Learning, Databases, Data Visualisation, Machine Learning, and Simulation & Optimisation.
-
-### B.E. Electronics & Computer Science
-**University of Mumbai | 2022–2025**
-
----
-
-## Currently Developing
-
-- Advanced **SQL** for data analysis
-- Interactive dashboards with **Power BI**
-- Statistical and predictive modelling
-- Data storytelling and visualisation
+**B.E. Electronics & Computer Science**  
+University of Mumbai | 2022 – 2025
 
 ---
 
 ## Connect With Me
 
-- **LinkedIn:** [Tanaya J.](https://www.linkedin.com/in/tanayajadhav0210/)
-- **GitHub:** [Tanaya0210](https://github.com/Tanaya0210)
+[LinkedIn](https://www.linkedin.com/in/tanaya-jadhav/) • [Portfolio](https://tanaya0210.github.io/)
