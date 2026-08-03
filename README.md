@@ -13,6 +13,9 @@
   <a href="https://tanaya0210.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
