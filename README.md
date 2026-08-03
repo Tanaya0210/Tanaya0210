@@ -72,23 +72,23 @@ I particularly enjoy projects where the analysis starts with a genuine question 
 
 <td align="center" width="33%">
 
-### Statistics
-
-<img src="https://img.shields.io/badge/Statistical%20Modelling-8A2BE2?style=flat">
-<img src="https://img.shields.io/badge/Regression%20Analysis-6F42C1?style=flat">
-<img src="https://img.shields.io/badge/Hypothesis%20Testing-9B59B6?style=flat">
-<img src="https://img.shields.io/badge/Multivariate%20Analysis-7D3C98?style=flat">
-
-</td>
-
-<td align="center" width="33%">
-
 ### Business
 
 <img src="https://img.shields.io/badge/KPI%20Analysis-2E9EF7?style=flat">
 <img src="https://img.shields.io/badge/Dashboards-F2C811?style=flat">
 <img src="https://img.shields.io/badge/Business%20Intelligence-4479A1?style=flat">
 <img src="https://img.shields.io/badge/Data%20Storytelling-FF6B6B?style=flat">
+
+</td>
+
+<td align="center" width="33%">
+
+### Statistics
+
+<img src="https://img.shields.io/badge/Statistical%20Modelling-8A2BE2?style=flat">
+<img src="https://img.shields.io/badge/Regression%20Analysis-6F42C1?style=flat">
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-9B59B6?style=flat">
+<img src="https://img.shields.io/badge/Multivariate%20Analysis-7D3C98?style=flat">
 
 </td>
 
