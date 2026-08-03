@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tanaya Jadhav
+# Hi, I'm Tanaya Jadhav!
 
 <p>
 I'm a Data Science postgraduate at the <b>University of Nottingham</b>, interested in using data to understand patterns, answer useful questions, and support better decisions.
