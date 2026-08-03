@@ -2,7 +2,13 @@
 
 # Hi, I'm Tanaya Jadhav
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+R;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+<p align="center">
+  I'm a Data Science postgraduate at the **University of Nottingham**, interested in using data to understand patterns, answer useful questions, and support better decisions.
+
+My work spans **data analysis, statistical modelling, machine learning, business intelligence, and data visualisation**, with projects across EdTech, sports analytics, healthcare, cybersecurity, marketing, and app-market data.
+
+I particularly enjoy projects where the analysis starts with a genuine question rather than a predetermined model or technique.
+</p>
 
 </div>
 
