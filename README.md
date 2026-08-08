@@ -26,10 +26,6 @@ I particularly enjoy projects where the analysis starts with a genuine question 
   </a>
 </p>
 
-<p>
-  <a href="./favourites/README.md"><b>personal favourites →</b></a>
-</p>
-
 </div>
 
 ---
@@ -49,8 +45,6 @@ I particularly enjoy projects where the analysis starts with a genuine question 
 
 Statistical analysis, modelling, and data exploration.
 
-<a href="YOUR-R-PROJECTS-LINK"><b>view projects →</b></a>
-
 </td>
 
 <td align="center" width="33%">
@@ -59,8 +53,6 @@ Statistical analysis, modelling, and data exploration.
 
 Querying, transforming, and analysing relational data.
 
-<a href="YOUR-SQL-PROJECTS-LINK"><b>view projects →</b></a>
-
 </td>
 
 <td align="center" width="33%">
@@ -68,8 +60,6 @@ Querying, transforming, and analysing relational data.
 ### Python
 
 Data analysis, visualisation, and predictive modelling.
-
-<a href="YOUR-PYTHON-PROJECTS-LINK"><b>view projects →</b></a>
 
 </td>
 
